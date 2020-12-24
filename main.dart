@@ -9,7 +9,7 @@ void main() {
           title: "My Ani",
            home: MyliquidSwipe(),
         ),
-        //body: MyliquidSwipe(),
+       
        
       );
 }
